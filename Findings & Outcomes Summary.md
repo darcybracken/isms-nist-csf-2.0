@@ -73,9 +73,9 @@ The following gaps were identified during the documentation process. In a produc
 
 | Artifact               | Format                               | Location                                                                                                                                       |
 | ---------------------- | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| NIST Mapping Matrix    | PNG (Lucidchart)                     | [NIST Mapping Matrix](https://raw.githubusercontent.com/darcybracken/isms-nist-csf-2.0/main/99_Attachments/Lab-002/NIST_Mapping_Table.png)     |
-| Data Flow Architecture | PNG (Lucidchart)                     | [Data Flow Architecture](https://raw.githubusercontent.com/darcybracken/isms-nist-csf-2.0/main/99_Attachments/Lab-002/ISMS_Architecture.png)   |
-| Knowledge Base Graph   | PNG (Obsidian graph view screenshot) | [Knowledge Base Graph](https://raw.githubusercontent.com/darcybracken/isms-nist-csf-2.0/main/99_Attachments/Lab-002/Obsidian_Policy_Graph.png) |
+| NIST Mapping Matrix    | PNG (Lucidchart)                     | [NIST Mapping Matrix](./99_%20Attachment/NIST_Mapping_Table.png)    |
+| Data Flow Architecture | PNG (Lucidchart)                     | [Data Flow Architecture](./99_%20Attachment/ISMS_Architecture.png)   |
+| Knowledge Base Graph   | PNG (Obsidian graph view screenshot) | [Knowledge Base Graph](./99_%20Attachment/Knowledge_Policy_%20Graph.png) |
 
 ## Conclusion
 
