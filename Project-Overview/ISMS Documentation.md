@@ -59,7 +59,7 @@ This vault uses a consistent tagging taxonomy so any artifact can be retrieved i
 
 ## How to Use This Vault
 
-**Phase 1 (Setup):** Start in `00_Project-Overview` to understand the scope. Ensure your **YAML frontmatter** is filled out in every file to power the tracking tags.
+**Phase 1 (Setup):** Start in `Project-Overview` to understand the scope. Ensure your **YAML frontmatter** is filled out in every file to power the tracking tags.
 
 **Phase 2 (Execution):** Navigate through `01_Governance` to see the **Acceptable Use Policy** and `04_Incident-Response` for the **IRP**. These are the "living" documents that define your security posture.
 
