@@ -10,11 +10,6 @@ Version: "1.0"
 ---
 ---
 
-## Executive Summary
-
-📄 [Download Executive Summary (PDF)](./ISMS%20Executive%20Summary.pdf)
-
-A recruiter-facing overview of the project scope, design decisions, artifact inventory, and framework alignment. 6 pages. No prior security knowledge required.
 
 ## What This Is
 
@@ -95,5 +90,4 @@ FinCorp Data Flow Architecture NIST CSF 2.0 Control Overlay
 ## About
 
 **D'Arcy Bracken**
-B.S. Cybersecurity and Information Assurance, Western Governors University (In Progress)
 [LinkedIn](https://linkedin.com/in/darcyvbracken)
