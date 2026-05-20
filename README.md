@@ -68,7 +68,6 @@ FinCorp Data Flow Architecture NIST CSF 2.0 Control Overlay
 ## Repository Structure
 
 ```
-├── 00_Project-Overview/       # Scope, methodology, mock org context
 ├── 01_Governance/             # AUP, RACI Matrix, risk appetite
 ├── 02_Framework-Mapping/      # NIST CSF Master Crosswalk (all 6 functions)
 ├── 03_Architecture/           # Data Flow Diagram with control overlay
