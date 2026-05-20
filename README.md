@@ -1,5 +1,5 @@
 ---
-Title: ISMS Project - NIST CSF 2.0 - README
+Title: ISMS Project - NIST CSF 2.0 
 Type: .md
 Repo: ISMS Project
 Status: Approved
