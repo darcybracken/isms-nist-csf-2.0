@@ -35,7 +35,7 @@ FinCorp is a mid-size financial services organization subject to GLBA (handling 
 
 **Relevance to FinCorp:** Financial services organizations are high-value targets for phishing. Wire transfer fraud (business email compromise) is a direct financial risk. A single compromised credential can provide the initial foothold for a broader breach.
 
-**ISMS controls:** Security Awareness Training is a planned ISMS control (see GAP-007 in the Findings and Outcomes Summary); an annual training curriculum with phishing simulations is the recommended action. MFA (FC-POL-001 §3.5) means stolen credentials alone are insufficient without the second factor.
+**ISMS controls:** Security Awareness Training is a planned ISMS control (see GAP-007 in the Findings and Outcomes Summary) an annual training curriculum with phishing simulations is the recommended action. MFA (FC-POL-001 §3.5) means stolen credentials alone are insufficient without the second factor.
 
 ### Credential-Based Attacks (Brute Force and Credential Stuffing)
 
