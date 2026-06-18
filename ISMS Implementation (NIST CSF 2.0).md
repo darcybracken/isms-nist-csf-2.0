@@ -1,4 +1,4 @@
-# Lab-003: ISMS Implementation (NIST CSF 2.0)
+# ISMS Implementation (NIST CSF 2.0)
 
 ![NIST CSF](https://img.shields.io/badge/NIST-CSF_2.0-darkblue)
 ![ISO 27001](https://img.shields.io/badge/ISO-27001-blue)
