@@ -1,13 +1,5 @@
----
-Title: ISMS Project - NIST CSF 2.0 
-Type: .md
-Repo: ISMS Project
-Status: Approved
-Created_date: 2026-05-15
-Reviewed_date: 2026-05-19
-Author: D'Arcy Bracken
-Version: "1.0"
----
+# Title: ISMS Project - NIST CSF 2.0 
+
 ---
 
 
