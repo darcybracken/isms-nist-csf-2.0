@@ -1,11 +1,7 @@
 ---
 Title: Acceptable Use Policy
-Type: .md
 Repo: 01_Governance
-Status: Approved
 Created_date: 2026-03-15
-Reviewed_date: 2026-05-19
-Author: D'Arcy Bracken
 Version: "1.0"
 ---
 ---
