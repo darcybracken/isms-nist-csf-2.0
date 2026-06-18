@@ -1,10 +1,7 @@
 ---
 Title: Findings & Outcomes Summary
-Type: .md
 Repo: ISMS Portfolio Project
-Status: Approved
 Created_date: 2026-05-06
-Author: D'Arcy Bracken
 Version: "1.0"
 ---
 ---
