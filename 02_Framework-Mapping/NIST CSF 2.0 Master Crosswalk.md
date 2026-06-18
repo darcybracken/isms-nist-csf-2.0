@@ -1,11 +1,7 @@
 ---
 Title: NIST CSF 2.0 Master Crosswalk
-Type: .md
 Repo: 02_Framework-Mapping
-Status: Approved
 Created_date: 2026-03-19
-Reviewed_date: 2026-05-19
-Author: D'Arcy Bracken
 Version: "1.0"
 ---
 ---
@@ -14,7 +10,7 @@ Version: "1.0"
 
 This crosswalk maps FinCorp internal policies and controls to specific NIST CSF 2.0 categories and subcategories. It serves as the single reference an auditor would use to verify that the organization's security posture has no gaps against the framework.
 
-The crosswalk also demonstrates how NIST CSF maps to other compliance targets (SOC 2, ISO 27001, GLBA) - showing that a well-built ISMS can satisfy multiple regulatory requirements simultaneously.
+The crosswalk also demonstrates how NIST CSF maps to other compliance targets (SOC 2, ISO 27001, GLBA) showing that a well-built ISMS can satisfy multiple regulatory requirements simultaneously.
 
 ## How to Read This Table
 
