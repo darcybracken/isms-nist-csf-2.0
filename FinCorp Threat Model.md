@@ -1,11 +1,7 @@
 ---
 Title: FinCorp Threat Model
-Type: .md
 Repo: ISMS Portfolio Project
-Status: Approved
 Created_date: 2026-05-13
-Reviewed_date: 2026-05-19
-Author: D'Arcy Bracken
 Version: "1.0"
 ---
 ---
