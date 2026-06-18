@@ -1,4 +1,4 @@
-# Title: ISMS Project - NIST CSF 2.0 
+# ISMS Project - NIST CSF 2.0 
 
 
 
