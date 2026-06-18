@@ -1,11 +1,7 @@
 ---
 Title: Architecture Index
-Type: .md
 Repo: 03_Architecture
-Status: Approved
 Created_date: 2026-04-11
-Reviewed_date: 2026-05-19
-Author: D'Arcy Bracken
 Version: "1.0"
 ---
 ---
