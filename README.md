@@ -4,7 +4,7 @@
 
 ## What This Is
 
-A student-built **Information Security Management System (ISMS)** designed from scratch for a mock financial services organization (FinCorp) aligned to **NIST Cybersecurity Framework 2.0** (September 2025).
+An applied **Information Security Management System (ISMS)** built from scratch for a mock financial services organization (FinCorp), aligned to the **NIST Cybersecurity Framework 2.0** (February 2024).
 
 This project answers one practical question: *What does it actually take to protect organizational data in a structured, auditable way?*
 
