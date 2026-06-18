@@ -1,11 +1,7 @@
 ---
 Title: Template Index
-Type: .md
 Repo: 05_Templates
-Status: Approved
 Created_date: 2026-04-25
-Reviewed_date: 2026-05-19
-Author: D'Arcy Bracken
 Version: "1.0"
 ---
 ---
