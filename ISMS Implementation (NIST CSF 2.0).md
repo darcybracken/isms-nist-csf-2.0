@@ -1,14 +1,3 @@
----
-Title: ISMS Implementation (NIST CSF 2.0)
-Type: .md
-Repo: ISMS Portfolio Project
-Status: Approved
-Created_date: 2026-05-13
-Reviewed_date: 2026-05-19
-Author: D'Arcy Bracken
----
----
-
 # Lab-003: ISMS Implementation (NIST CSF 2.0)
 
 ![NIST CSF](https://img.shields.io/badge/NIST-CSF_2.0-darkblue)
