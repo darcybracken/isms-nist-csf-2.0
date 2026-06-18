@@ -1,11 +1,7 @@
 ---
 Title: ISMS Project Overview
-Type: .md
 Repo: 00_Project-Overview
-Status: Approved
 Created_date: 2026-03-11
-Reviewed_date: 2026-05-19
-Author: D'Arcy Bracken
 Version: "1.0"
 ---
 ---
